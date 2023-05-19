@@ -5,8 +5,11 @@ repository : https://github.com/openai/whisper
 based on python 3.11
 
 install packages:
+
 pip install git+https://github.com/openai/whisper.git 
+
 pip install --upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git
+
 # on Ubuntu or Debian
 sudo apt update && sudo apt install ffmpeg
 
