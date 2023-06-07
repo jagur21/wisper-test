@@ -3,6 +3,8 @@
 repository : https://github.com/openai/whisper
 
 based on python 3.11
+Clone repo
+git clone git@github.com:jagur21/wisper-test.git
 
 install packages:
 
